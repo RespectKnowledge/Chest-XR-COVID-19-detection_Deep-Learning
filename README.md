@@ -1,4 +1,9 @@
 # Chest-XR-COVID-19-detection_Deep-Learning
+
+6th Place solution for cxr-covid19 challenge on leaderboard
+
+# https://cxr-covid19.grand-challenge.org/evaluation/challenge/leaderboard/
+
 Please download the training, validation and testing dataset from the following link
 # https://cxr-covid19.grand-challenge.org/
 
