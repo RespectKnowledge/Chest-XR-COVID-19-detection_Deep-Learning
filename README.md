@@ -28,9 +28,8 @@ If you use vision transformer based deep learning models, please use this code f
 
 please note that transformer did not provide optimal solution in our case as compared to deep neural networks.
 
-The proposed solution block diagram is shown below:
 
-
+# The proposed deep learning Model
 
 
 ![Covid_detection122](https://user-images.githubusercontent.com/46267777/137321975-1dec1c7d-4f8e-40c9-a2fe-130b96d4a30f.png)
@@ -40,9 +39,11 @@ The proposed solution block diagram is shown below:
 ![training](https://user-images.githubusercontent.com/46267777/137322899-c4aec187-9953-42a1-9393-6cb17fed3848.png)
 
 
+
 # Prediction fucntion
 
 > python3 covid_prediction.ipynb
+
 
 The training and validation results are shown in these Tables.
 
