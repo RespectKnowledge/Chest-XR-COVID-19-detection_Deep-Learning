@@ -35,6 +35,9 @@ The proposed solution block diagram is shown below:
 
 ![Covid_detection122](https://user-images.githubusercontent.com/46267777/137321975-1dec1c7d-4f8e-40c9-a2fe-130b96d4a30f.png)
 
+# Training and optimzation hyperparameters 
+
+![training](https://user-images.githubusercontent.com/46267777/137322899-c4aec187-9953-42a1-9393-6cb17fed3848.png)
 
 
 # Prediction fucntion
