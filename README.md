@@ -7,9 +7,10 @@ If you want to train the deep convolutional neural networks, please use this cod
 
 If you use vision transformer based deep learning models, please use this code for training and validation
 
-python3 Transformers_models_covid.py
+# python3 Transformers_models_covid.py
 
 # Prediction fucntion
+# python3 covid_prediction
 
 # Please cite this paper, if you use this dataset
 @misc{CovidGrandChallenge2021,
