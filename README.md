@@ -7,6 +7,7 @@
 Please download the training, validation and testing dataset from the following link
 # https://cxr-covid19.grand-challenge.org/
 
+
 # Training function
 
 If you want to train the deep convolutional neural networks, please use this code,
@@ -31,7 +32,8 @@ The proposed solution block diagram is shown below:
 
 
 
-![Covid_detection12](https://user-images.githubusercontent.com/46267777/137321737-cc1f7c3f-9f7f-4c46-9b0f-616bd5a43965.png)
+![Covid_detection1](https://user-images.githubusercontent.com/46267777/137321874-be3cd917-7c72-4166-a7c5-97e8964d0d78.png)
+
 
 
 # Prediction fucntion
