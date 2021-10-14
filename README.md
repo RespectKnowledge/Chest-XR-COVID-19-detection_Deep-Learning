@@ -6,10 +6,17 @@ Please download the training, validation and testing dataset from the following 
 
 If you want to train the deep convolutional neural networks, please use this code,
 
-efficientnet_model.py # for efficientNet models
+# for EfficieNet pretrained model
 
+efficientnet_model.py 
+
+# For pretrained models
+
+DDN_covid_models.py 
 
 If you use vision transformer based deep learning models, please use this code for training and validation
+
+# For vision-based transformers
 
 python3 Transformers_models_covid.py
 
