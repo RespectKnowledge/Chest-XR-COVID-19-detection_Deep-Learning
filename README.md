@@ -3,6 +3,11 @@ Please download the training, validation and testing dataset from the following 
 # https://cxr-covid19.grand-challenge.org/
 
 # Training function
+If you want to train the deep convolutional neural networks, please use this code,
+
+If you use vision transformer based deep learning models, please use this code for training and validation
+
+python3 Transformers_models_covid.py
 
 # Prediction fucntion
 
