@@ -41,6 +41,11 @@ The proposed solution block diagram is shown below:
 
 > python3 covid_prediction.ipynb
 
+The training and validation results are shown in these Tables.
+
+![Results](https://user-images.githubusercontent.com/46267777/137322629-ccdf0b28-4189-4564-a163-8dddca3bbfc4.png)
+
+
 # Please cite this paper, if you use this dataset
 @misc{CovidGrandChallenge2021,
                 author = {Akhloufi, Moulay A. and Chetoui, Mohamed},
