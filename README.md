@@ -30,7 +30,8 @@ please note that transformer did not provide optimal solution in our case as com
 The proposed solution block diagram is shown below:
 
 
-![Covid_detection1](https://user-images.githubusercontent.com/46267777/137321452-9818f2b2-ea01-4837-9d56-67d09ccfefe6.png)
+
+![Covid_detection12](https://user-images.githubusercontent.com/46267777/137321737-cc1f7c3f-9f7f-4c46-9b0f-616bd5a43965.png)
 
 
 # Prediction fucntion
