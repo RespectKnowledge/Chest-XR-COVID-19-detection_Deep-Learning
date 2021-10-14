@@ -12,17 +12,17 @@ Please download the training, validation and testing dataset from the following 
 
 If you want to train the deep convolutional neural networks, please use this code,
 
-# for EfficieNet pretrained model
+# for EfficieNet pretrained models
 
 > python3 efficientnet_model.py 
 
-# For pretrained models
+# For Deep Learning pretrained models
 
 > python3 DDN_covid_models.py 
 
 If you use vision transformer based deep learning models, please use this code for training and validation
 
-# For vision-based transformers
+# For Vision-based Transformers
 
 > python3 Transformers_models_covid.py
 
@@ -37,7 +37,6 @@ please note that transformer did not provide optimal solution in our case as com
 # Training and optimzation hyperparameters 
 
 ![training](https://user-images.githubusercontent.com/46267777/137322899-c4aec187-9953-42a1-9393-6cb17fed3848.png)
-
 
 
 # Prediction fucntion
