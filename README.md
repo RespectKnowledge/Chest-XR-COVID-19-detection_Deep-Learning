@@ -8,21 +8,21 @@ If you want to train the deep convolutional neural networks, please use this cod
 
 # for EfficieNet pretrained model
 
-efficientnet_model.py 
+> python3 efficientnet_model.py 
 
 # For pretrained models
 
-DDN_covid_models.py 
+> python3 DDN_covid_models.py 
 
 If you use vision transformer based deep learning models, please use this code for training and validation
 
 # For vision-based transformers
 
-python3 Transformers_models_covid.py
+> python3 Transformers_models_covid.py
 
 # Prediction fucntion
 
-python3 covid_prediction.ipynb
+> python3 covid_prediction.ipynb
 
 # Please cite this paper, if you use this dataset
 @misc{CovidGrandChallenge2021,
