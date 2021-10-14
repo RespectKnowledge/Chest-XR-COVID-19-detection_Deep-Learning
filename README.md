@@ -25,6 +25,13 @@ If you use vision transformer based deep learning models, please use this code f
 
 > python3 Transformers_models_covid.py
 
+please note that transformer did not provide optimal solution in our case as compared to deep neural networks.
+
+The proposed solution block diagram is shown below:
+
+![Covid_detection](https://user-images.githubusercontent.com/46267777/137320481-dfb74812-2d88-4c7e-a1fd-23481bd22b27.png)
+
+
 # Prediction fucntion
 
 > python3 covid_prediction.ipynb
