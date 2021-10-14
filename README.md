@@ -32,7 +32,8 @@ The proposed solution block diagram is shown below:
 
 
 
-![Covid_detection1](https://user-images.githubusercontent.com/46267777/137321874-be3cd917-7c72-4166-a7c5-97e8964d0d78.png)
+
+![Covid_detection122](https://user-images.githubusercontent.com/46267777/137321975-1dec1c7d-4f8e-40c9-a2fe-130b96d4a30f.png)
 
 
 
