@@ -53,6 +53,10 @@ You can check the perfromance of different deep learning models using the follow
 
 > validation_performance_covid.ipynb
 
+![ROC](https://user-images.githubusercontent.com/46267777/138430928-ce13bf2a-a874-4955-bda3-b4f945529fc8.png)
+
+
+![PRC](https://user-images.githubusercontent.com/46267777/138430955-a4e764ea-74b8-41d1-b98c-2caedff9dd1f.png)
 
 
 # Please cite this paper, if you use this dataset
