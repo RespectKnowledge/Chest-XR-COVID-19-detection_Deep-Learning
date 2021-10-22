@@ -41,12 +41,18 @@ please note that transformer did not provide optimal solution in our case as com
 
 # Prediction fucntion
 
-> python3 covid_prediction.ipynb
+> covid_prediction.ipynb
 
 
 The training and validation results are shown in these Tables.
 
 ![Results](https://user-images.githubusercontent.com/46267777/137322629-ccdf0b28-4189-4564-a163-8dddca3bbfc4.png)
+
+# performance measuremnet
+You can check the perfromance of different deep learning models using the following notebook
+
+> validation_performance_covid.ipynb
+
 
 
 # Please cite this paper, if you use this dataset
